@@ -46,9 +46,9 @@ Better Netflix is a Chrome extension designed to improve the user experience of 
 
 Sprinkled throughout Better Netflix is code from other open source projects. This allows us to focus on fleshing out the features of the extension itself without spending unnecessary time and effort on the technology behind the features. Since the web development world is blessed with a massive community of wonderful open source developers and the brilliant libraries they've crafted, leveraging their code makes it much easier to get the most out of your own projects. Here's what you'll find in Better Netflix:
 
-* [AngularJS] 
-* [jQuery]
-* [keymaster.js]
+* [AngularJS](http://angularjs.org)
+* [jQuery](http://jquery.org)
+* [keymaster.js](https://github.com/madrobby/keymaster
 
 In addition to those libraries, Better Netflix also impliments code from some userscripts. As UserScripts.org has shuffled off its mortal coil, there's no active repo for most of these, so the relevant links instead point to a mirror of their most recent update prior to UserScripts.org's death.
 
