@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "name": "Better Netflix",
+  "short_name": "BetterNetflix",
+  "description": "Customise and improve your browser-based Netflix experience. Better Netflix lets you reorganize and hide sections, change link behavior, display ratings from various sources, and much more.",
+  "version": "0.0.1",
+  "minimum_chrome_version": "38",
+  "default_locale": "en",
+  
+  "browser_action": {
+    "default_icon": {
+      "16": "assets/icon_16.png",
+      "38": "assets/icon_38.png"
+    },
+    "default_title": "Better Netflix",
+    "default_popup": "popup.html"
+  },
+  
+  "page_action": {
+    "default_icon": {
+      "16": "assets/bar_icon_16.png",
+      "38": "assets/bar_icon_38.png"
+    },
+    "default_title": "Better Netflix",
+    "default_popup": "popup.html"
+  },
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
+}
