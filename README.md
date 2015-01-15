@@ -48,7 +48,7 @@ Sprinkled throughout Better Netflix is code from other open source projects. Thi
 
 * [AngularJS](http://angularjs.org)
 * [jQuery](http://jquery.org)
-* [keymaster.js](https://github.com/madrobby/keymaster
+* [keymaster.js](https://github.com/madrobby/keymaster)
 
 In addition to those libraries, Better Netflix also impliments code from some userscripts. As UserScripts.org has shuffled off its mortal coil, there's no active repo for most of these, so the relevant links instead point to a mirror of their most recent update prior to UserScripts.org's death.
 
